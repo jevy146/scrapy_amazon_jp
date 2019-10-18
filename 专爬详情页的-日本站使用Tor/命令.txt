@@ -1,0 +1,2 @@
+(scrapy_redis) F:\envs_pycharm\使用虚拟环境做分布式爬虫>pip freeze>F:\envs_pycharm\使用虚拟环境做分布式爬虫\0906-日本站已整理好\专爬详情页的-
+日本站使用Tor\requirements.txt
